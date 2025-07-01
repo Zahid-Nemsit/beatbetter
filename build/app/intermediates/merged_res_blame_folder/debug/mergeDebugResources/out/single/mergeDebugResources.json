@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/drawable-v21_background.png.flat",
+        "source": "com.nemsit.betterme.app-main-23:/drawable-v21/background.png"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.nemsit.betterme.app-main-23:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.nemsit.betterme.app-main-23:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/drawable-xhdpi_splash.png.flat",
+        "source": "com.nemsit.betterme.app-main-23:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/drawable-mdpi_splash.png.flat",
+        "source": "com.nemsit.betterme.app-main-23:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/drawable-hdpi_splash.png.flat",
+        "source": "com.nemsit.betterme.app-main-23:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nemsit.betterme.app-main-23:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nemsit.betterme.app-debug-28:/drawable-v21_launch_background.xml.flat",
+        "source": "com.nemsit.betterme.app-main-23:/drawable-v21/launch_background.xml"
+    }
+]

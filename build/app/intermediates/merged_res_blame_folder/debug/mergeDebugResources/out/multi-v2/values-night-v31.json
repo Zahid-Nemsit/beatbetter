@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nemsit.betterme.app-mergeDebugResources-26:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/zahid/Data/Zahid/Work/Flutter/Projects/Client/betterme/android/app/src/main/res/values-night-v31/styles.xml",
+                    "from": {
+                        "startLines": "3,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,961",
+                        "endLines": "9,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "610,1125"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,498",
+                        "endLines": "8,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "493,662"
+                    }
+                }
+            ]
+        }
+    ]
+}
