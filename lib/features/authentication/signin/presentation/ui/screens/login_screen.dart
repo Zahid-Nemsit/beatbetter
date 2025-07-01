@@ -7,7 +7,6 @@ import 'package:beatbetter/shared/widgets/spaces.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:logto_dart_sdk/logto_client.dart';
 
 import '../../../../../../core/utils/app_values_const.dart';
 import '../../../../../../core/utils/image_resources.dart';
@@ -22,25 +21,11 @@ class LoginScreen extends ConsumerStatefulWidget {
 }
 
 class _LoginScreenState extends ConsumerState<LoginScreen> {
-  final redirectUri = 'io.logto://biocheck.nl';
-  final logtoConfig = LogtoConfig(
-    endpoint: 'https://86dggw.logto.app/oidc/auth', // Replace with your Logto endpoint
-    appId: 'vyy42msl5agjcle7wjucv', // Replace with your App ID
-  );
-
-  late LogtoClient logtoClient;
-
-  void _init() async {
-    logtoClient = LogtoClient(
-      config: logtoConfig,
-      httpClient: http.Client(), // Optional: Custom HTTP client
-    );
-  }
 
   @override
   void initState() {
     super.initState();
-    _init();
+
   }
 
   @override
@@ -121,7 +106,6 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                         ),
                         AppTextButton(
                           onPressed: () async {
-                            await logtoClient.signIn(redirectUri);
                           },
                           text: S.of(context).auth_sign_in_button,
                           width: 120,
